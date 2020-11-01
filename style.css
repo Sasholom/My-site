@@ -1,46 +1,49 @@
+html{
+    border: 10px solid black;
+}
 body{
     font-size: 20px;
-    background-color: #000000;
-    color: aliceblue;
-    border: 5px solid goldenrod;
+    background-color: rgb(11, 129, 11);
+    color: black;
+    border: 5px solid red;
 }
 h1{
     font-size: 25px;
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 li{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 a:visited{
-    color: white;
+    color: black;
 }
 img{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 head{
-    border: 5px solid goldenrod;
+    border: 5px solid 
 }
 footer{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 ul{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 p{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 h3{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 h2{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 h4{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 h5{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
 h6{
-    border: 5px solid goldenrod;
+    border: 5px solid red;
 }
