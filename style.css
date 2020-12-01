@@ -1,49 +1,97 @@
 html{
-    border: 10px solid black;
+    background: rgb(189,214,131);
+background: linear-gradient(180deg, rgba(189,214,131,1) 0%, rgba(255,223,38,1) 100%);
 }
 body{
     font-size: 20px;
-    background-color: rgb(11, 129, 11);
-    color: black;
-    border: 5px solid red;
 }
+
+header{
+    background-color: #bdd683;
+}
+
+footer{
+    background-color: #ffdf26;
+    color: #917f18;
+}
+
 h1{
     font-size: 25px;
-    border: 5px solid red;
 }
-li{
-    border: 5px solid red;
+
+.tenor-gif-embed{
+    display: inline-flex;
 }
+
+.a{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #bdd683 solid 3px;
+    background-color: #bdd683;
+    color: black;
+    display: inline-flex;
+}
+.s{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #bdd683 solid 3px;
+    background-color: #bdd683;
+    color: black;
+    display: inline-flex;
+}
+.d{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #bdd683 solid 3px;
+    background-color: #bdd683;
+    color: black;
+    display: inline-flex;
+}
+.f{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #bdd683 solid 3px;
+    background-color: #bdd683;
+    color: black;
+    display: inline-flex; 
+}
+.g{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #bdd683 solid 3px;
+    background-color: #bdd683;
+    color: black;
+    display: inline-flex;
+}
+.h{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #bdd683 solid 3px;
+    background-color: #bdd683;
+    color: black;
+    display: inline-flex;
+}
+
+.j{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #bdd683 solid 3px;
+    background-color: #bdd683;
+    color: black;
+    display: inline-flex;
+}
+
 a:visited{
     color: black;
 }
-img{
-    border: 5px solid red;
+
+.logo{
+display: inline-block;
 }
-head{
-    border: 5px solid 
-}
-footer{
-    border: 5px solid red;
-}
-ul{
-    border: 5px solid red;
-}
-p{
-    border: 5px solid red;
-}
-h3{
-    border: 5px solid red;
-}
-h2{
-    border: 5px solid red;
-}
-h4{
-    border: 5px solid red;
-}
-h5{
-    border: 5px solid red;
-}
-h6{
-    border: 5px solid red;
+
+.menu{
+    display: inline-block;
+    }
+.ewr{
+    text-align: center;
 }
