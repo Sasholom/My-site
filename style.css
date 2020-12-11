@@ -95,3 +95,39 @@ display: inline-block;
 .ewr{
     text-align: center;
 }
+.erd{
+    text-align: center;
+    display: inline-flex;
+}
+.erd1{
+    display: inline-flex;
+}
+.erd2{
+    display: inline-flex;
+    text-align: left;
+}
+
+.ery{
+    text-align: center;
+    display: inline-flex;
+}
+.ery1{
+    display: inline-flex;
+}
+.ery2{
+    display: inline-flex;
+    text-align: left;
+}
+
+.eru{
+    text-align: center;
+    display: inline-flex;
+}
+.eru1{
+    display: inline-flex;
+}
+.eru2{
+    display: inline-flex;
+    text-align: left;
+}
+
