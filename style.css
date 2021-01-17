@@ -106,6 +106,15 @@ h1{
     display: inline-flex;
 }
 
+.l{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #4169E1 solid 3px;
+    background-color: #4169E1;
+    color: black;
+    display: inline-flex;
+}
+
 a:visited{
     color: black;
 }
